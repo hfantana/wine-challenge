@@ -1,0 +1,22 @@
+Question 1
+Which 2 wine qualities are most common in our data set? Do you foresee any problems that might occur because of which wine qualities are most common?
+
+Answer 1:
+
+__________________________________________________________________________________
+Question 2
+Describe the relationship between the variables quality and alcohol in 1 sentence. Does this surprise you? Why or why not?
+
+Answer 2:
+
+__________________________________________________________________________________
+Question 3
+The accuracy score is very high. How do you think does this score reflects the performance of our model??
+
+Answer 3:
+
+__________________________________________________________________________________
+Question 4
+What measures would you take to improve the outcome or performance of the wine classifier model?
+
+Answer 4:
